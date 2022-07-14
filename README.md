@@ -1,5 +1,5 @@
-# Repositório do Desafio de Projeto sobre Git/GitHub da DIO.
-Dedicado à organização e estruturação dos códigos e projetos desenvolvidos ao longo do Bootcamp Fullstack.
+# Repositório para o Bootcamp Fullstack da DIO.
+Dedicado à organização e estruturação dos códigos e projetos desenvolvidos ao longo do programa.
 
 ## Links Úteis
 [Sintaxe Markdown](https://www.markdownguide.org/basic-syntax/)</p>
